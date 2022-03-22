@@ -1,0 +1,4 @@
+php artisan serve
+mysql -u root -p
+php artisan migrate
+php artisan migrate:status
